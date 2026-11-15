@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/ai_engineering_journey.egg-info/PKG-INFO
+src/ai_engineering_journey.egg-info/SOURCES.txt
+src/ai_engineering_journey.egg-info/dependency_links.txt
+src/ai_engineering_journey.egg-info/requires.txt
+src/ai_engineering_journey.egg-info/top_level.txt
+src/ai_service/__init__.py
+src/ai_service/main.py
+tests/test_health.py
