@@ -1,0 +1,8 @@
+fastapi
+pydantic<3,>=2
+uvicorn[standard]
+
+[dev]
+httpx
+pytest
+ruff
